@@ -1,0 +1,6 @@
+.godot/
+*.import
+imported/
+build/
+export_presets.cfg
+android/build/
